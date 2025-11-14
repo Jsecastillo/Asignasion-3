@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Familia>
+	<Miembro>
+		<Rol>Padre</Rol>
+		<Nombre>Carlos Gómez</Nombre>
+		<FechaNacimiento>1980-03-12T00:00:00</FechaNacimiento>
+		<PesoKg>82.5</PesoKg>
+		<AlturaCm>178</AlturaCm>
+	</Miembro>
+	<Miembro>
+		<Rol>Madre</Rol>
+		<Nombre>Laura Martínez</Nombre>
+		<FechaNacimiento>1983-07-25T00:00:00</FechaNacimiento>
+		<PesoKg>65.3</PesoKg>
+		<AlturaCm>165</AlturaCm>
+	</Miembro>
+	<Miembro>
+		<Rol>Hijo</Rol>
+		<Nombre>Andrés Gómez</Nombre>
+		<FechaNacimiento>2010-10-05T00:00:00</FechaNacimiento>
+		<PesoKg>50.2</PesoKg>
+		<AlturaCm>155</AlturaCm>
+	</Miembro>
+	<Miembro>
+		<Rol>Hija</Rol>
+		<Nombre>Mariana Gómez</Nombre>
+		<FechaNacimiento>2015-02-20T00:00:00</FechaNacimiento>
+		<PesoKg>35.7</PesoKg>
+		<AlturaCm>135</AlturaCm>
+	</Miembro>
+</Familia>

@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\familia.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|solutionrelative:familia.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|c:\\users\\vicva\\source\\repos\\nueva carpeta (3)\\proyecto familia\\webapplication2\\familia.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|solutionrelative:familia.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|c:\\users\\vicva\\source\\repos\\nueva carpeta (3)\\proyecto familia\\webapplication2\\models\\dueno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|solutionrelative:models\\dueno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|c:\\users\\vicva\\source\\repos\\nueva carpeta (3)\\proyecto familia\\webapplication2\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|c:\\users\\vicva\\source\\repos\\nueva carpeta (3)\\proyecto familia\\webapplication2\\data\\mascotarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|solutionrelative:data\\mascotarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\familia.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|solutionrelative:familia.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|c:\\users\\vicva\\source\\repos\\nueva carpeta (3)\\proyecto familia\\webapplication2\\data\\visitarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|solutionrelative:data\\visitarepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|c:\\users\\vicva\\source\\repos\\nueva carpeta (3)\\proyecto familia\\webapplication2\\data\\duenorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|solutionrelative:data\\duenorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|c:\\users\\vicva\\source\\repos\\nueva carpeta (3)\\proyecto familia\\webapplication2\\models\\tratamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|solutionrelative:models\\tratamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|c:\\users\\vicva\\source\\repos\\nueva carpeta (3)\\proyecto familia\\webapplication2\\models\\visita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|solutionrelative:models\\visita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|c:\\users\\vicva\\source\\repos\\nueva carpeta (3)\\proyecto familia\\webapplication2\\models\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|solutionrelative:models\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\App_Data\\Familiap.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|solutionrelative:App_Data\\Familiap.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\App_Data\\Familiap.xml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|solutionrelative:App_Data\\Familiap.xml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46395E8-E043-4B5B-90E0-6FC96E357C56}|WebApplication2.csproj|solutionrelative:Global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-11-14T03:53:36.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tratamiento.cs",
+              "DocumentMoniker": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Models\\Tratamiento.cs",
+              "RelativeDocumentMoniker": "Models\\Tratamiento.cs",
+              "ToolTip": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Models\\Tratamiento.cs",
+              "RelativeToolTip": "Models\\Tratamiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:46:08.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Visita.cs",
+              "DocumentMoniker": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Models\\Visita.cs",
+              "RelativeDocumentMoniker": "Models\\Visita.cs",
+              "ToolTip": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Models\\Visita.cs",
+              "RelativeToolTip": "Models\\Visita.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:45:56.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VisitaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Data\\VisitaRepositorio.cs",
+              "RelativeDocumentMoniker": "Data\\VisitaRepositorio.cs",
+              "ToolTip": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Data\\VisitaRepositorio.cs",
+              "RelativeToolTip": "Data\\VisitaRepositorio.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:45:00.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DuenoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Data\\DuenoRepositorio.cs",
+              "RelativeDocumentMoniker": "Data\\DuenoRepositorio.cs",
+              "ToolTip": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Data\\DuenoRepositorio.cs",
+              "RelativeToolTip": "Data\\DuenoRepositorio.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:44:37.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MascotaRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Data\\MascotaRepositorio.cs",
+              "RelativeDocumentMoniker": "Data\\MascotaRepositorio.cs",
+              "ToolTip": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Data\\MascotaRepositorio.cs",
+              "RelativeToolTip": "Data\\MascotaRepositorio.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:12:57.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dueno.cs",
+              "DocumentMoniker": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Models\\Dueno.cs",
+              "RelativeDocumentMoniker": "Models\\Dueno.cs",
+              "ToolTip": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Models\\Dueno.cs",
+              "RelativeToolTip": "Models\\Dueno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:12:17.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mascota.cs",
+              "DocumentMoniker": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Models\\Mascota.cs",
+              "RelativeDocumentMoniker": "Models\\Mascota.cs",
+              "ToolTip": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Models\\Mascota.cs",
+              "RelativeToolTip": "Models\\Mascota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:11:53.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "familia.aspx",
+              "DocumentMoniker": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\familia.aspx",
+              "RelativeDocumentMoniker": "familia.aspx",
+              "ToolTip": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\familia.aspx",
+              "RelativeToolTip": "familia.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-11-05T02:43:04.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "familia.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\familia.aspx.cs",
+              "RelativeDocumentMoniker": "familia.aspx.cs",
+              "ToolTip": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\familia.aspx.cs",
+              "RelativeToolTip": "familia.aspx.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T02:43:00.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Familia.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Familia.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Familia.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Familia.aspx.designer.cs",
+              "RelativeToolTip": "Familia.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T03:18:18.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Familiap.xml",
+              "DocumentMoniker": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\App_Data\\Familiap.xml",
+              "RelativeDocumentMoniker": "App_Data\\Familiap.xml",
+              "ToolTip": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\App_Data\\Familiap.xml",
+              "RelativeToolTip": "App_Data\\Familiap.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-14T03:15:30.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Familiap.xml",
+              "DocumentMoniker": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\App_Data\\Familiap.xml",
+              "RelativeDocumentMoniker": "App_Data\\Familiap.xml",
+              "ToolTip": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\App_Data\\Familiap.xml",
+              "RelativeToolTip": "App_Data\\Familiap.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-11-14T03:20:41.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Global.asax.cs",
+              "ToolTip": "C:\\Users\\vicva\\source\\repos\\Nueva carpeta (3)\\proyecto familia\\WebApplication2\\Global.asax.cs",
+              "RelativeToolTip": "Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T02:55:52.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
